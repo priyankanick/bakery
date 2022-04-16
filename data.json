@@ -2,107 +2,121 @@
     {
         "name": "Heart Shape Black Forest Cake",
         "pic": "https://luvflowercake.com/wp-content/uploads/2021/09/33623_heart-shape-black-forest-cake.jpeg",
-        "details": "",
+        "details": "Black forest cake is the perfect amalgamation of chocolate, whipped cream frosting and cherry liqueur garnished with fresh cherries. It looks decadent and tastes heavenly and that is all one needs for any sweet and joyous celebration.",
         "ingredients": "All-purpose flour , white sugar , unsweetened cocoa powder , dark chocolate , baking powder, baking soda , milk , eggs ,  vegetable oil , vanilla extract",
-        "price": "1000"
+        "price": " Price-1000"
     },
     {
         "name": "Vegan Red Velvet Cup Cakes",
         "pic": "https://www.errenskitchen.com/wp-content/uploads/2020/10/red-velvet-cupcakes-1-3-728x1024.jpg",
-        "details": "",
-        "ingredients": "All-purpose flour , white sugar ,  liquid red food coloring , buttermilk ,  baking powder, baking soda , milk , eggs ,  vegetable oil , vanilla extract",
-        "price": "800"
+        "details": "Red velvet cupcakes are traditionally made with a blend of cocoa powder, vinegar, and buttermilk, which creates a chemical reaction that helps give the cake a deep maroon color. However, today we typically enhance that hue with red food coloring to create vibrant cupcakes.",
+        "ingredients": "All-purpose flour , white sugar , white wine ,  liquid red food coloring , buttermilk ,  baking powder, baking soda , milk , eggs ,  vegetable oil , vanilla extract",
+        "price": "Price-800"
     },
     {
         "name": "Chocolate Fruit & Nut Cake",
         "pic": "https://cdn.giftstoindia24x7.com/ASP_Img/IMG2000/GTI420570.jpg",
-        "details": "",
-        "ingredients": "All-purpose flour , white sugar , coarsely chopped nuts (walnuts, pecans, hazelnuts, almonds), dark chocolate , buttermilk ,  baking powder, baking soda , milk , eggs ,  vegetable oil , vanilla extract",
-        "price": "1000"
+        "details": "Fruitcake (or fruit cake or fruit bread) is a cake made with candied or dried fruit, nuts, and spices, and optionally soaked in spirits. In the United Kingdom, certain rich versions may be iced and decorated. Fruitcakes are typically served in celebration of weddings and Christmas.",
+        "ingredients": "All-purpose flour , white sugar , white wine , coarsely chopped nuts (walnuts, pecans, hazelnuts, almonds), dark chocolate , buttermilk ,  baking powder, baking soda , milk , eggs ,  vegetable oil , vanilla extract",
+        "price": "Price-1000"
     },
     {
         "name": "Chocolate Vanilla Cake",
         "pic": "https://www.basilflorist.com/image/cache/catalog/Cakes(2020)/Chocolate-Vanilla-Cake08-700x700.jpg",
-        "details": "",
+        "details": "Both vanilla and chocolate have a place in a healthy diet. If you're looking to eat more beneficial foods, chocolate does have a slight edge. It contains more beneficial nutrients and antioxidants than vanilla does and is generally consumed in larger amounts than vanilla",
         "ingredients": "All-purpose flour , white sugar ,  dark chocolate , buttermilk ,  baking powder, baking soda , milk , eggs ,  vegetable oil , vanilla extract",
-        "price": "1200"
+        "price": "Price-1200"
     },
     {
         "name": "Red Velvet Love Cake",
         "pic": "https://www.fnp.com/images/pr/x/v20210701022535/red-velvet-heart-cake-15kg_1.jpg",
-        "details": "",
-        "ingredients": "All-purpose flour , white sugar ,  liquid red food coloring , buttermilk ,  baking powder, baking soda , milk , eggs ,  vegetable oil , vanilla extract",
-        "price": "1100"
+        "details": "Red velvet cupcakes are traditionally made with a blend of cocoa powder, vinegar, and buttermilk, which creates a chemical reaction that helps give the cake a deep maroon color. However, today we typically enhance that hue with red food coloring to create vibrant cupcakes.",
+        "ingredients": "All-purpose flour , white sugar , white wine ,  liquid red food coloring , buttermilk ,  baking powder, baking soda , milk , eggs ,  vegetable oil , vanilla extract",
+        "price": "Price-1100"
     },
     {
         "name": "Chocolate Pinata Cake",
         "pic": "https://static.wixstatic.com/media/ac8ed5_821735cab2a74b9f97affa02875962fb~mv2.png/v1/fill/w_580,h_549,al_c/ac8ed5_821735cab2a74b9f97affa02875962fb~mv2.png",
-        "details": "",
+        "details": "Pinata chocolate cakes often have a firm chocolate shell on the outside. The exterior chocolate shell is usually shaped like a heart, sphere, or half-sphere. Sprinkles, fondant embellishments, ribbons, or icing are used to adorn the exterior chocolate shell.",
         "ingredients": "All-purpose flour , white sugar ,  dark chocolate , buttermilk ,  baking powder, baking soda , milk , eggs ,  vegetable oil , vanilla extract",
-        "price": "1200"
+        "price": "Price-1200"
     },
     {
         "name": "Butter Scotch Cake",
         "pic": "https://droolingsweetness.com/wp-content/uploads/2021/08/Butter-Scotch-Cake1.jpg",
-        "details": "",
+        "details": "It's a classic buttercream made with butter, powdered sugar and some cream or milk, but it's got the addition of melted butterscotch chips",
         "ingredients": "All-purpose flour , brown sugar ,  dark chocolate , buttermilk , cornstarch , butterscotch chips  , butterscotch chips, baking powder, baking soda , milk , eggs ,  vegetable oil , vanilla extract",
-        "price": "800"
+        "price": "Price-800"
     },
     {
         "name": "Chocolate Truffle Pastry",
         "pic": "https://iambaker.net/wp-content/uploads/2013/11/chocolate-cake-slice-e1562794545746.jpg",
-        "details": "",
+        "details": "A chocolate truffle is a type of chocolate confectionery, traditionally made with a chocolate ganache centre coated in chocolate, cocoa powder, coconut, or chopped and toasted nuts (typically hazelnuts or almonds), usually in a spherical, conical, or curved shape.",
         "ingredients": "All-purpose flour , white sugar , unsweetened cocoa powder ,  baking powder, baking soda , milk , eggs ,  vegetable oil , vanilla extract",
-        "price": "400"
+        "price": "Price-400"
     },
     {
         "name": "Strawberry Cake",
         "pic": "https://aclassictwist.com/wp-content/uploads/2020/08/Fresh-Strawberry-Cake-with-Strawberry-Frosting-3.jpg",
-        "details": "",
+        "details": "Strawberry cake is a cake that uses strawberry as a primary ingredient. Strawberries may be used in the cake batter, atop the cake, and in the frosting. Strawberry cakes are typically served cold.",
         "ingredients": "All-purpose flour , white sugar , strawberry,  baking powder, baking soda , milk , eggs ,  vegetable oil , vanilla extract",
-        "price": "1000"
+        "price": "Price-1000"
     },
     {
         "name": " Christmas Plum Cake",
         "pic": "https://www.cookwithkushi.com/wp-content/uploads/2021/12/IMG_6698c.jpg",
-        "details": "",
-        "ingredients": "All-purpose flour , white sugar , unsweetened cocoa powder ,  coarsely chopped nuts (walnuts, pecans, hazelnuts, almonds),,  baking powder, baking soda , milk , eggs ,  vegetable oil , vanilla extract",
-        "price": "400"
+        "details": "Fruitcake (or fruit cake or fruit bread) is a cake made with candied or dried fruit, nuts, and spices, and optionally soaked in spirits. In the United Kingdom, certain rich versions may be iced and decorated. Fruitcakes are typically served in celebration of weddings and Christmas.",
+        "ingredients": "All-purpose flour , white sugar , white wine , unsweetened cocoa powder ,  coarsely chopped nuts (walnuts, pecans, hazelnuts, almonds),,  baking powder, baking soda , milk , eggs ,  vegetable oil , vanilla extract",
+        "price": "Price-900"
     },
     {
         "name": "Eggless Black Forest Cake",
         "pic": "https://livforcake.com/wp-content/uploads/2017/07/black-forest-cake-1.jpg",
-        "details": "",
+        "details": "Black forest cake is the perfect amalgamation of chocolate, whipped cream frosting and cherry liqueur garnished with fresh cherries. It looks decadent and tastes heavenly and that is all one needs for any sweet and joyous celebration.",
         "ingredients": "All-purpose flour , white sugar , unsweetened cocoa powder , dark chocolate , baking powder, baking soda , milk , vegetable oil , vanilla extract",
-        "price": "1000"
+        "price": "Price-1000"
+    },
+    {
+        "name": "Divine Butterscotch Cake",
+        "pic": "https://www.bloomsonly.com/media/catalog/product/cache/2/image/9df78eab33525d08d6e5fb8d27136e95/b/u/butterscotch-premium-cake.jpg",
+        "details": "It's a classic buttercream made with butter, powdered sugar and some cream or milk, but it's got the addition of melted butterscotch chips",
+        "ingredients": "All-purpose flour , white sugar , butterscotch chips , unsweetened cocoa powder ,  baking powder, baking soda , milk , eggs ,  vegetable oil , vanilla extract",
+        "price": "Price-1200"
     },
     {
         "name": "Red Velvet pastry",
         "pic": "https://handletheheat.com/wp-content/uploads/2013/04/red-velvet-cake-recipe-SQUARE-500x500.jpg",
-        "details": "",
+        "details": "Red velvet cupcakes are traditionally made with a blend of cocoa powder, vinegar, and buttermilk, which creates a chemical reaction that helps give the cake a deep maroon color. However, today we typically enhance that hue with red food coloring to create vibrant cupcakes.",
         "ingredients": "All-purpose flour , white sugar , unsweetened cocoa powder , liquid red food color,  baking powder, baking soda , milk , eggs ,  vegetable oil , vanilla extract",
-        "price": "400"
+        "price": "Price-400"
     },
 
     {
         "name": "Blueberry Puree Cake",
         "pic": "https://5.imimg.com/data5/WY/MN/MY-56226253/blueberry-cake-500x500.jpg",
-        "details": "",
+        "details": "Feel the lush exotic taste of blueberry in your mouth with a blast of cream.This blueberry layer cake has two layers of blueberry cake, a compote and a buttercream that bursts with blueberry flavor! ",
         "ingredients": "All-purpose flour , white sugar , unsweetened cocoa powder , blueberries ,  baking powder, baking soda , milk , eggs ,  vegetable oil , vanilla extract",
-        "price": "1000"
+        "price": "Price-1000"
     },
     {
         "name": "Chocolate Strawberry Layer Cake",
         "pic": "https://confessionsofabakingqueen.com/wp-content/uploads/2013/05/strawberries-and-cream-chocolate-cake-5-of-5.jpg",
-        "details": "",
+        "details": "Strawberry cake is a cake that uses strawberry as a primary ingredient. Strawberries may be used in the cake batter, atop the cake, and in the frosting. Strawberry cakes are typically served cold.",
         "ingredients": "All-purpose flour , white sugar , strawberry , unsweetened cocoa powder ,  baking powder, baking soda , milk , eggs ,  vegetable oil , vanilla extract",
-        "price": "1000"
+        "price": "Price-1000"
+    },
+    {
+        "name": "White Forest Cake",
+        "pic": "https://pic.warmoven.in/catalog/product/cache/4e14bcb566d25893ae7201d4dbdc22fd/image/181ec29/white-forest-cake.jpeg",
+        "details": "It is made of layers of chocolate cake soaked in some kind of Kirsch or cherry based syrup layered with cherries and cream and frosted with more cream and covered in chocolate decorations",
+        "ingredients": "All-purpose flour , white sugar , strawberry , unsweetened cocoa powder ,  baking powder, baking soda , milk , eggs ,  vegetable oil , vanilla extract",
+        "price": "Price-1000"
     },
     {
         "name": "Red Velvet Cheese Cake - Eggless",
         "pic": "https://cdn11.bigcommerce.com/s-g0klpq5lu/images/stencil/1280x1280/products/424/1030/12_Long_Stem_Purple_Roses_Red_Velvet_Cake_3__98715.1631200965.jpg?c=1&imbypass=on",
-        "details": "",
+        "details": "Red velvet cupcakes are traditionally made with a blend of cocoa powder, vinegar, and buttermilk, which creates a chemical reaction that helps give the cake a deep maroon color. However, today we typically enhance that hue with red food coloring to create vibrant cupcakes.",
         "ingredients": "All-purpose flour , white sugar , unsweetened cocoa powder , liquid red food color , baking powder, baking soda , milk , milk creame,  vegetable oil , vanilla extract",
-        "price": "1000"
+        "price": "Price-1000"
     }
 ]

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>page2</title>
+</head>
+<body>
+    <div id="n"></div>
+    <div id="detail"></div>
+    <div id="ing"></div>
+</body>
+<script>
+    let data = JSON.parse(localStorage.getItem("n"));
+    console.log(data.name)
+    document.getElementById("n").innerHTML = data.title
+
+    let d = JSON.parse(localStorage.getItem("detail"));
+    console.log(d.details)
+    document.getElementById("detail").innerHTML = d.details
+
+    let pos = JSON.parse(localStorage.getItem("ing"));
+    console.log(pos.ingredients)
+    document.getElementById("ing").innerHTML = pos.ingredients
+
+</script>
+</html>

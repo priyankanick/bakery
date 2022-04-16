@@ -11,12 +11,18 @@ async function api_call() {
                 <img src="${e[i].pic}" class="card-img-top poster" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">${e[i].name}</h5>
-                        <p class="card-text">${e[i].details}</p>
-
+                        <p class="card-text">${e[i].price}</p>
+                        <a href="./page2.html"  class="btn btn-primary"  onClick="saveData('${i}')">Show</a>
                     </div>
             </div>
         </div>`
+         
         
-
     }
+}
+function saveData(i){
+    console.log(e[i]);
+    localStorage.setItem("n",JSON.stringify(e[i]));
+    localStorage.setItem("detail",JSON.stringify(e[i]));
+    localStorage.setItem("ing",JSON.stringify(e[i]));
 }
