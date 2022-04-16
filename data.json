@@ -113,10 +113,17 @@
         "price": "Price-1000"
     },
     {
+        "name": "Chocolate Berry Cake",
+        "pic": "https://5.imimg.com/data5/UR/TI/MY-45217071/chocolate-berry-cake-500x500.png",
+        "details": "This beauty is baked with a splash of Chambord and layered with a sweet raspberry filling, both of which offer bright counterpoints to the thick layer of chocolate-cream cheese frosting and whole berries scattered on top. You won't be able to have just one slice.",
+        "ingredients": "All-purpose flour , white sugar , fresh raspberries , unsweetened cocoa powder ,  baking powder, baking soda , milk , eggs ,  vegetable oil , vanilla extract",
+        "price": "Price-1000"
+    },
+    {
         "name": "Red Velvet Cheese Cake - Eggless",
         "pic": "https://cdn11.bigcommerce.com/s-g0klpq5lu/images/stencil/1280x1280/products/424/1030/12_Long_Stem_Purple_Roses_Red_Velvet_Cake_3__98715.1631200965.jpg?c=1&imbypass=on",
         "details": "Red velvet cupcakes are traditionally made with a blend of cocoa powder, vinegar, and buttermilk, which creates a chemical reaction that helps give the cake a deep maroon color. However, today we typically enhance that hue with red food coloring to create vibrant cupcakes.",
-        "ingredients": "All-purpose flour , white sugar , unsweetened cocoa powder , liquid red food color , baking powder, baking soda , milk , milk creame,  vegetable oil , vanilla extract",
+        "ingredients": "All-purpose flour , white sugar , unsweetened cocoa powder , liquid red food color , baking powder, baking soda , milk , milk cream,  vegetable oil , vanilla extract",
         "price": "Price-1000"
     }
 ]
