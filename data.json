@@ -57,10 +57,17 @@
     },
     {
         "name": "Strawberry Cake",
-        "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTt7bpn_cygJ0M0nmoBnMvluK_Zw2l14mHJvyNDGm4BnvKxMfwWzw4ooiEcDZeAdZ_Cc4&usqp=CAU",
+        "pic": "https://aclassictwist.com/wp-content/uploads/2020/08/Fresh-Strawberry-Cake-with-Strawberry-Frosting-3.jpg",
         "details": "",
         "ingredients": "All-purpose flour , white sugar , strawberry,  baking powder, baking soda , milk , eggs ,  vegetable oil , vanilla extract",
         "price": "1000"
+    },
+    {
+        "name": " Christmas Plum Cake",
+        "pic": "https://www.cookwithkushi.com/wp-content/uploads/2021/12/IMG_6698c.jpg",
+        "details": "",
+        "ingredients": "All-purpose flour , white sugar , unsweetened cocoa powder ,  coarsely chopped nuts (walnuts, pecans, hazelnuts, almonds),,  baking powder, baking soda , milk , eggs ,  vegetable oil , vanilla extract",
+        "price": "400"
     },
     {
         "name": "Eggless Black Forest Cake",
@@ -86,14 +93,14 @@
     },
     {
         "name": "Chocolate Strawberry Layer Cake",
-        "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHL2k_kVstWKvMOmvitpECxb3Y6xBmchIbKE8Hh3RwTFPFB_uFt_Us_n2uUXkGzaOuWQo&usqp=CAU",
+        "pic": "https://confessionsofabakingqueen.com/wp-content/uploads/2013/05/strawberries-and-cream-chocolate-cake-5-of-5.jpg",
         "details": "",
         "ingredients": "All-purpose flour , white sugar , strawberry , unsweetened cocoa powder ,  baking powder, baking soda , milk , eggs ,  vegetable oil , vanilla extract",
         "price": "1000"
     },
     {
         "name": "Red Velvet Cheese Cake - Eggless",
-        "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQVlqRyoUv8DGPHIQyuSGrLq9joV6irC8_mw&usqp=CAU",
+        "pic": "https://cdn11.bigcommerce.com/s-g0klpq5lu/images/stencil/1280x1280/products/424/1030/12_Long_Stem_Purple_Roses_Red_Velvet_Cake_3__98715.1631200965.jpg?c=1&imbypass=on",
         "details": "",
         "ingredients": "All-purpose flour , white sugar , unsweetened cocoa powder , liquid red food color , baking powder, baking soda , milk , milk creame,  vegetable oil , vanilla extract",
         "price": "1000"
