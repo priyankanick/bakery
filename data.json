@@ -3,49 +3,99 @@
         "name": "Heart Shape Black Forest Cake",
         "pic": "https://luvflowercake.com/wp-content/uploads/2021/09/33623_heart-shape-black-forest-cake.jpeg",
         "details": "",
-        "ingredients": "",
+        "ingredients": "All-purpose flour , white sugar , unsweetened cocoa powder , dark chocolate , baking powder, baking soda , milk , eggs ,  vegetable oil , vanilla extract",
         "price": "1000"
     },
     {
-        "name": "egan Red Velvet Cup CakesV",
+        "name": "Vegan Red Velvet Cup Cakes",
         "pic": "https://www.errenskitchen.com/wp-content/uploads/2020/10/red-velvet-cupcakes-1-3-728x1024.jpg",
         "details": "",
-        "ingredients": "",
+        "ingredients": "All-purpose flour , white sugar ,  liquid red food coloring , buttermilk ,  baking powder, baking soda , milk , eggs ,  vegetable oil , vanilla extract",
         "price": "800"
     },
     {
         "name": "Chocolate Fruit & Nut Cake",
         "pic": "https://cdn.giftstoindia24x7.com/ASP_Img/IMG2000/GTI420570.jpg",
         "details": "",
-        "ingredients": "",
+        "ingredients": "All-purpose flour , white sugar , coarsely chopped nuts (walnuts, pecans, hazelnuts, almonds), dark chocolate , buttermilk ,  baking powder, baking soda , milk , eggs ,  vegetable oil , vanilla extract",
         "price": "1000"
     },
     {
         "name": "Chocolate Vanilla Cake",
         "pic": "https://www.basilflorist.com/image/cache/catalog/Cakes(2020)/Chocolate-Vanilla-Cake08-700x700.jpg",
         "details": "",
-        "ingredients": "",
+        "ingredients": "All-purpose flour , white sugar ,  dark chocolate , buttermilk ,  baking powder, baking soda , milk , eggs ,  vegetable oil , vanilla extract",
         "price": "1200"
     },
     {
         "name": "Red Velvet Love Cake",
         "pic": "https://www.fnp.com/images/pr/x/v20210701022535/red-velvet-heart-cake-15kg_1.jpg",
         "details": "",
-        "ingredients": "",
-        "price": ""
+        "ingredients": "All-purpose flour , white sugar ,  liquid red food coloring , buttermilk ,  baking powder, baking soda , milk , eggs ,  vegetable oil , vanilla extract",
+        "price": "1100"
     },
     {
         "name": "Chocolate Pinata Cake",
         "pic": "https://static.wixstatic.com/media/ac8ed5_821735cab2a74b9f97affa02875962fb~mv2.png/v1/fill/w_580,h_549,al_c/ac8ed5_821735cab2a74b9f97affa02875962fb~mv2.png",
         "details": "",
-        "ingredients": "",
-        "price": ""
+        "ingredients": "All-purpose flour , white sugar ,  dark chocolate , buttermilk ,  baking powder, baking soda , milk , eggs ,  vegetable oil , vanilla extract",
+        "price": "1200"
     },
     {
         "name": "Butter Scotch Cake",
         "pic": "https://droolingsweetness.com/wp-content/uploads/2021/08/Butter-Scotch-Cake1.jpg",
         "details": "",
-        "ingredients": "",
-        "price": ""
+        "ingredients": "All-purpose flour , brown sugar ,  dark chocolate , buttermilk , cornstarch , butterscotch chips  , butterscotch chips, baking powder, baking soda , milk , eggs ,  vegetable oil , vanilla extract",
+        "price": "800"
+    },
+    {
+        "name": "Chocolate Truffle Pastry",
+        "pic": "https://iambaker.net/wp-content/uploads/2013/11/chocolate-cake-slice-e1562794545746.jpg",
+        "details": "",
+        "ingredients": "All-purpose flour , white sugar , unsweetened cocoa powder ,  baking powder, baking soda , milk , eggs ,  vegetable oil , vanilla extract",
+        "price": "400"
+    },
+    {
+        "name": "Strawberry Cake",
+        "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTt7bpn_cygJ0M0nmoBnMvluK_Zw2l14mHJvyNDGm4BnvKxMfwWzw4ooiEcDZeAdZ_Cc4&usqp=CAU",
+        "details": "",
+        "ingredients": "All-purpose flour , white sugar , strawberry,  baking powder, baking soda , milk , eggs ,  vegetable oil , vanilla extract",
+        "price": "1000"
+    },
+    {
+        "name": "Eggless Black Forest Cake",
+        "pic": "https://livforcake.com/wp-content/uploads/2017/07/black-forest-cake-1.jpg",
+        "details": "",
+        "ingredients": "All-purpose flour , white sugar , unsweetened cocoa powder , dark chocolate , baking powder, baking soda , milk , vegetable oil , vanilla extract",
+        "price": "1000"
+    },
+    {
+        "name": "Red Velvet pastry",
+        "pic": "https://handletheheat.com/wp-content/uploads/2013/04/red-velvet-cake-recipe-SQUARE-500x500.jpg",
+        "details": "",
+        "ingredients": "All-purpose flour , white sugar , unsweetened cocoa powder , liquid red food color,  baking powder, baking soda , milk , eggs ,  vegetable oil , vanilla extract",
+        "price": "400"
+    },
+
+    {
+        "name": "Blueberry Puree Cake",
+        "pic": "https://5.imimg.com/data5/WY/MN/MY-56226253/blueberry-cake-500x500.jpg",
+        "details": "",
+        "ingredients": "All-purpose flour , white sugar , unsweetened cocoa powder , blueberries ,  baking powder, baking soda , milk , eggs ,  vegetable oil , vanilla extract",
+        "price": "1000"
+    },
+    {
+        "name": "Chocolate Strawberry Layer Cake",
+        "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHL2k_kVstWKvMOmvitpECxb3Y6xBmchIbKE8Hh3RwTFPFB_uFt_Us_n2uUXkGzaOuWQo&usqp=CAU",
+        "details": "",
+        "ingredients": "All-purpose flour , white sugar , strawberry , unsweetened cocoa powder ,  baking powder, baking soda , milk , eggs ,  vegetable oil , vanilla extract",
+        "price": "1000"
+    },
+    {
+        "name": "Red Velvet Cheese Cake - Eggless",
+        "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQVlqRyoUv8DGPHIQyuSGrLq9joV6irC8_mw&usqp=CAU",
+        "details": "",
+        "ingredients": "All-purpose flour , white sugar , unsweetened cocoa powder , liquid red food color , baking powder, baking soda , milk , milk creame,  vegetable oil , vanilla extract",
+        "price": "1000"
     }
 ]
