@@ -23,6 +23,6 @@ async function api_call() {
 function saveData(i){
     console.log(e[i]);
     localStorage.setItem("n",JSON.stringify(e[i]));
-    localStorage.setItem("detail",JSON.stringify(e[i]));
+    localStorage.setItem("det",JSON.stringify(e[i]));
     localStorage.setItem("ing",JSON.stringify(e[i]));
 }

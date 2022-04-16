@@ -8,17 +8,19 @@
 </head>
 <body>
     <div id="n"></div>
-    <div id="detail"></div>
+    <div><h1>SOME DETAILS</h1> </div>
+    <div id="det"></div>
+    <div><h1>INGREDIENTS</h1> </div>
     <div id="ing"></div>
 </body>
 <script>
     let data = JSON.parse(localStorage.getItem("n"));
     console.log(data.name)
-    document.getElementById("n").innerHTML = data.title
+    document.getElementById("n").innerHTML = data.name
 
-    let d = JSON.parse(localStorage.getItem("detail"));
-    console.log(d.details)
-    document.getElementById("detail").innerHTML = d.details
+    let di = JSON.parse(localStorage.getItem("det"));
+    console.log(di.details)
+    document.getElementById("det").innerHTML = di.details
 
     let pos = JSON.parse(localStorage.getItem("ing"));
     console.log(pos.ingredients)
