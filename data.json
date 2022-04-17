@@ -7,7 +7,7 @@
         "price": " Price-1000"
     },
     {
-        "name": "Vegan Red Velvet Cup Cakes",
+        "name": "Vegan Red Velvet Cup Cake",
         "pic": "https://www.errenskitchen.com/wp-content/uploads/2020/10/red-velvet-cupcakes-1-3-728x1024.jpg",
         "details": "Red velvet cupcakes are traditionally made with a blend of cocoa powder, vinegar, and buttermilk, which creates a chemical reaction that helps give the cake a deep maroon color. However, today we typically enhance that hue with red food coloring to create vibrant cupcakes.",
         "ingredients": "All-purpose flour , white sugar , white wine ,  liquid red food coloring , buttermilk ,  baking powder, baking soda , milk , eggs ,  vegetable oil , vanilla extract",
@@ -96,7 +96,7 @@
         "pic": "https://5.imimg.com/data5/WY/MN/MY-56226253/blueberry-cake-500x500.jpg",
         "details": "Feel the lush exotic taste of blueberry in your mouth with a blast of cream.This blueberry layer cake has two layers of blueberry cake, a compote and a buttercream that bursts with blueberry flavor! ",
         "ingredients": "All-purpose flour , white sugar , unsweetened cocoa powder , blueberries ,  baking powder, baking soda , milk , eggs ,  vegetable oil , vanilla extract",
-        "price": "Price-1000"
+        "price": "Price-1500"
     },
     {
         "name": "Chocolate Strawberry Layer Cake",
@@ -110,14 +110,14 @@
         "pic": "https://pic.warmoven.in/catalog/product/cache/4e14bcb566d25893ae7201d4dbdc22fd/image/181ec29/white-forest-cake.jpeg",
         "details": "It is made of layers of chocolate cake soaked in some kind of Kirsch or cherry based syrup layered with cherries and cream and frosted with more cream and covered in chocolate decorations",
         "ingredients": "All-purpose flour , white sugar , strawberry , unsweetened cocoa powder ,  baking powder, baking soda , milk , eggs ,  vegetable oil , vanilla extract",
-        "price": "Price-1000"
+        "price": "Price-1100"
     },
     {
         "name": "Chocolate Berry Cake",
         "pic": "https://5.imimg.com/data5/UR/TI/MY-45217071/chocolate-berry-cake-500x500.png",
         "details": "This beauty is baked with a splash of Chambord and layered with a sweet raspberry filling, both of which offer bright counterpoints to the thick layer of chocolate-cream cheese frosting and whole berries scattered on top. You won't be able to have just one slice.",
         "ingredients": "All-purpose flour , white sugar , fresh raspberries , unsweetened cocoa powder ,  baking powder, baking soda , milk , eggs ,  vegetable oil , vanilla extract",
-        "price": "Price-1000"
+        "price": "Price-1200"
     },
     {
         "name": "Red Velvet Cheese Cake - Eggless",
