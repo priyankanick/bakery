@@ -10,8 +10,8 @@ async function api_call() {
             <div class="card" style="width: 100%">
                 <img src="${e[i].pic}" class="card-img-top poster" alt="...">
                     <div class="card-body">
-                        <h5 class="card-title">${e[i].name}</h5>
-                        <p class="card-text">${e[i].price}</p>
+                        <h5 class="card-title hide-text">${e[i].name}</h5>
+                        <p class="card-title hide-text">${e[i].price}</p>
                         <a href="./page2.html"  class="btn btn-primary"  onClick="saveData('${i}')">Show</a>
                     </div>
             </div>
